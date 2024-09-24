@@ -1,0 +1,16 @@
+{
+  "cinder_token": "the token",
+  "cinder_url": "https://something.somethingelse",
+  "cinder_limit": 100,
+
+  "jira": {
+    "protocol": "https",
+    "host": "foo.atlassian.net",
+    "username": "the username",
+    "password": "the password/token",
+    "apiVersion": "2",
+    "strictSSL": true
+  },
+
+  "project": "CINDER2JIRA"
+}
